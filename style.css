@@ -1,0 +1,57 @@
+.banner{
+    background:url("https://i.pinimg.com/564x/23/b1/9c/23b19cc45eceebce442e0e8a9850540e.jpg");
+    background-position-y: left;
+    background-repeat: no-repeat;
+    background-color: #B5C4D7;
+    padding-left: 30%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    -webkit-text-fill-color: rgb(2, 9, 17);
+}
+
+.form{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.judul{
+    padding-bottom: 0.5%;
+}
+
+.pert1{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.pert2{
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+.pert3{
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+.pert4{
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+.pert5{
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+.pert6{
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+.pert7{
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+.pert8{
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+.button{
+    background-color :#376eb6;
+}
